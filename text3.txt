@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 awdwadwadwadadwwadwadwad
+=======
+awdwadwadwadd
+wad
+wadwad
+wadwadwad
+wadwadwadd
+>>>>>>> hotfix
